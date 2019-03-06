@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <?php include 'partials/meta.php';  ?>
-    <title>FDP | Kiwi</title>
+    <title>Power Freak | Recyclage</title>
 </head>
 <body class="text-center">
 
     <?php include 'partials/menu.php';  ?>
     <main role="main" class="inner cover">
-        <h1>Kiwi</h1>
+        <h1>RECYCLAGE</h1>
     </main>
 
 
