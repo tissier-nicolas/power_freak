@@ -1,16 +1,29 @@
 <!doctype html>
 <html lang="en">
-<head>
-    <?php include 'partials/meta.php';  ?>
-    <title>Power Freak | PW</title>
-</head>
-<body class="text-center">
+
+  <head>
+      <?php include 'partials/meta.php';  ?>
+      <title>PW | Power Freak</title>
+  </head>
+
+  <body>
 
     <?php include 'partials/header.php';  ?>
+    <!-- FIN HEADER -->
+
+    <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+    <!-- DEBUT MAIN -->
+
     <main role="main" class="inner cover">
-        <h1>Power Freak</h1>
+        <h1>POWER FREAK</h1>
     </main>
 
+    <!-- FIN MAIN -->
+    <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
-</body>
+    <?php include 'partials/footer.php';  ?>
+    <!-- FIN FOOTER -->
+
+  </body>
+
 </html>

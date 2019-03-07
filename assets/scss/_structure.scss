@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush&subset=latin-ext');
+
+*{
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: 'aileronlight';
+  font-size: 100%;
+  background-color: pink;
+}
+
+/* --------------- Resets */
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}

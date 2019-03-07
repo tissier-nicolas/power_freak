@@ -1,0 +1,40 @@
+.page-head {
+    .branding {
+        top: 0;
+        position: fixed;
+        background: #fff;
+        transform: skewX(-20deg);
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
+        display: inline-block;
+        position: relative;
+        z-index: 10;
+        margin-left: -15px;
+        .nav-logo {
+          transform: skewX(20deg);
+          display: block;
+          padding: 2vh 1.5vw 2vh 2vw;
+          img {
+            width: 10vh;
+            width: auto;
+          }
+        }
+    }
+    .menu {
+      width: 100%;
+      padding-left: 25vw;
+      z-index: 5;
+      box-shadow: 1px 1px 4px rgba(0, 0, 0, .1);
+      top: 0;
+      position: fixed;
+      background: #fff;
+      ul {
+        display: flex;
+        li {
+          a {
+            display: block;
+            padding: 1.5vh 2vw;
+          }
+        }
+      }
+    }
+}

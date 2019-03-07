@@ -1,19 +1,24 @@
-<header class="masthead mb-auto">
+<header class="page-head">
+
     <div class="inner">
-      <a class="lien--logo" href="./index.php"> <img class="logo" src="../assets/images/logo.png" alt="logo-road" /><a/>
 
-        <nav class="fill">
+      <div class="branding">
+        <a class="nav-logo" href="index.php" title="">
+          <img class="img-logo" src="assets/images/logo.png" alt="Logo Power Freak" height="50"/>
+        </a>
+      </div>
 
+        <nav class="menu">
           <ul>
             <li>
-              <a class="kiwi" href="./recyclage.php">Le recyclage, une priorité</a>
+              <a class="recyclage" href="recyclage.php" title="">Le recyclage, une priorité</a>
             </li>
             <li>
-              <a class="banane" href="./power_freak.php">Power Freak</a>
+              <a class="power-freak" href="power_freak.php" title="">Power Freak</a>
             </li>
           </ul>
-
         </nav>
 
     </div>
+
 </header>

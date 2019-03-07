@@ -1,51 +1,41 @@
 <!doctype html>
 <html lang="en">
+
     <head>
         <?php include 'partials/meta.php';  ?>
-        <title>Power Freak | Home</title>
+        <title>PW | Home</title>
     </head>
 
     <body>
+
       <div class="wrapper">
 
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<!-- DEBUT HEADER -->
+        <?php include 'partials/header.php';  ?>
+        <!-- FIN HEADER -->
 
-        <header>
-          <div class="container">
-            <?php include 'partials/header.php';  ?>
-          </div>
+        <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+        <!-- DEBUT MAIN -->
 
-        </header>
+        <main>
+            HOME
+        </main>
 
-<!-- FIN HEADER -->
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<!-- DEBUT MAIN -->
+        <!-- FIN MAIN -->
+        <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
-            <main>
-
-            </main>
-
-<!-- FIN MAIN -->
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<!-- DEBUT FOOTER -->
-
-<footer>
-
-</footer>
-
-<!-- FIN FOOTER -->
+        <?php include 'partials/footer.php';  ?>
+        <!-- FIN FOOTER -->
 
       </div>
+
       <script type="text/javascript" charset="utf-8">
-  $(window).load(function() {
-    $('.flexslider').flexslider();
-  });
-</script>
-<script>
-  $( function() {
-    $( "#accordion" ).accordion();
-  } );
-  </script>
+          $(window).load(function() {
+            $('.flexslider').flexslider();
+          });
+          $( function() {
+            $( "#accordion" ).accordion();
+          } );
+      </script>
+
     </body>
 </html>
