@@ -16,6 +16,9 @@
             <li>
               <a class="power-freak" href="power_freak.php" title="">Power Freak</a>
             </li>
+            <li>
+              <a class="power-freak" href="contact.php" title="">Contactez Nous</a>
+            </li>
           </ul>
         </nav>
 

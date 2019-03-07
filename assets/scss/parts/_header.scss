@@ -6,7 +6,6 @@
         transform: skewX(-20deg);
         box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
         display: inline-block;
-        position: relative;
         z-index: 10;
         margin-left: -15px;
         .nav-logo {
@@ -21,7 +20,7 @@
     }
     .menu {
       width: 100%;
-      padding-left: 25vw;
+      padding-left: 14vw;
       z-index: 5;
       box-shadow: 1px 1px 4px rgba(0, 0, 0, .1);
       top: 0;

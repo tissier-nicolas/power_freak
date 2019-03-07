@@ -86,6 +86,149 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./assets/fonts/cocogoosecompressed-semilight-webfont.eot":
+/*!****************************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-semilight-webfont.eot ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-semilight-webfont.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-semilight-webfont.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-semilight-webfont.ttf":
+/*!****************************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-semilight-webfont.ttf ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-semilight-webfont.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-semilight-webfont.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-semilight-webfont.woff":
+/*!*****************************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-semilight-webfont.woff ***!
+  \*****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-semilight-webfont.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-semilight-webfont.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-semilight-webfont.woff2":
+/*!******************************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-semilight-webfont.woff2 ***!
+  \******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-semilight-webfont.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-semilight-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-thin-webfont.eot":
+/*!***********************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-thin-webfont.eot ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-thin-webfont.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-thin-webfont.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-thin-webfont.ttf":
+/*!***********************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-thin-webfont.ttf ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-thin-webfont.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-thin-webfont.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-thin-webfont.woff":
+/*!************************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-thin-webfont.woff ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-thin-webfont.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-thin-webfont.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/cocogoosecompressed-thin-webfont.woff2":
+/*!*************************************************************!*\
+  !*** ./assets/fonts/cocogoosecompressed-thin-webfont.woff2 ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"cocogoosecompressed-thin-webfont.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/cocogoosecompressed-thin-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./assets/images/contenu_1.png":
+/*!*************************************!*\
+  !*** ./assets/images/contenu_1.png ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"contenu_1.png\";\n\n//# sourceURL=webpack:///./assets/images/contenu_1.png?");
+
+/***/ }),
+
+/***/ "./assets/images/contenu_2.png":
+/*!*************************************!*\
+  !*** ./assets/images/contenu_2.png ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"contenu_2.png\";\n\n//# sourceURL=webpack:///./assets/images/contenu_2.png?");
+
+/***/ }),
+
+/***/ "./assets/images/new_picture_2.png":
+/*!*****************************************!*\
+  !*** ./assets/images/new_picture_2.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"new_picture_2.png\";\n\n//# sourceURL=webpack:///./assets/images/new_picture_2.png?");
+
+/***/ }),
+
+/***/ "./assets/images/new_picture_4.png":
+/*!*****************************************!*\
+  !*** ./assets/images/new_picture_4.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"new_picture_4.png\";\n\n//# sourceURL=webpack:///./assets/images/new_picture_4.png?");
+
+/***/ }),
+
+/***/ "./assets/images/new_picture_5.png":
+/*!*****************************************!*\
+  !*** ./assets/images/new_picture_5.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"new_picture_5.png\";\n\n//# sourceURL=webpack:///./assets/images/new_picture_5.png?");
+
+/***/ }),
+
 /***/ "./assets/js/index.js":
 /*!****************************!*\
   !*** ./assets/js/index.js ***!
@@ -115,7 +258,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Caveat+Brush&subset=latin-ext);\", \"\"]);\n\n// module\nexports.push([module.i, \"* {\\n  padding: 0;\\n  margin: 0;\\n  border: none;\\n  box-sizing: border-box;\\n  list-style: none; }\\n\\nhtml {\\n  font-size: 15px; }\\n\\nbody {\\n  font-family: 'aileronlight';\\n  font-size: 100%;\\n  background-color: pink; }\\n\\n/* --------------- Resets */\\nul {\\n  list-style-type: none; }\\n\\na {\\n  text-decoration: none; }\\n\\n.page-head .branding {\\n  top: 0;\\n  position: fixed;\\n  background: #fff;\\n  -webkit-transform: skewX(-20deg);\\n          transform: skewX(-20deg);\\n  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);\\n  display: inline-block;\\n  position: relative;\\n  z-index: 10;\\n  margin-left: -15px; }\\n  .page-head .branding .nav-logo {\\n    -webkit-transform: skewX(20deg);\\n            transform: skewX(20deg);\\n    display: block;\\n    padding: 2vh 1.5vw 2vh 2vw; }\\n    .page-head .branding .nav-logo img {\\n      width: 10vh;\\n      width: auto; }\\n\\n.page-head .menu {\\n  width: 100%;\\n  padding-left: 25vw;\\n  z-index: 5;\\n  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);\\n  top: 0;\\n  position: fixed;\\n  background: #fff; }\\n  .page-head .menu ul {\\n    display: flex; }\\n    .page-head .menu ul li a {\\n      display: block;\\n      padding: 1.5vh 2vw; }\\n\\n/*\\n * jQuery FlexSlider v2.7.1\\n * http://www.woothemes.com/flexslider/\\n *\\n * Copyright 2012 WooThemes\\n * Free to use under the GPLv2 and later license.\\n * http://www.gnu.org/licenses/gpl-2.0.html\\n *\\n * Contributing author: Tyler Smith (@mbmufffin)\\n *\\n */\\n/* ====================================================================================================================\\n * FONT-FACE\\n * ====================================================================================================================*/\\n/* ====================================================================================================================\\n * RESETS\\n * ====================================================================================================================*/\\n.flex-container a:hover,\\n.flex-slider a:hover {\\n  outline: none; }\\n\\n.slides,\\n.slides > li,\\n.flex-control-nav,\\n.flex-direction-nav {\\n  margin: 0;\\n  padding: 0;\\n  list-style: none; }\\n\\n.flex-pauseplay span {\\n  text-transform: capitalize; }\\n\\n/* ====================================================================================================================\\n * BASE STYLES\\n * ====================================================================================================================*/\\n.flexslider {\\n  margin: 0;\\n  padding: 0; }\\n\\n.flexslider .slides > li {\\n  display: none;\\n  -webkit-backface-visibility: hidden; }\\n\\n.flexslider .slides img {\\n  width: 100%;\\n  display: block; }\\n\\n.flexslider .slides:after {\\n  content: \\\" \\\";\\n  display: block;\\n  clear: both;\\n  visibility: hidden;\\n  line-height: 0;\\n  height: 0; }\\n\\nhtml[xmlns] .flexslider .slides {\\n  display: block; }\\n\\n* html .flexslider .slides {\\n  height: 1%; }\\n\\n.no-js .flexslider .slides > li:first-child {\\n  display: block; }\\n\\n/* ====================================================================================================================\\n * DEFAULT THEME\\n * ====================================================================================================================*/\\n.flexslider {\\n  margin: 0 0 60px;\\n  background: #fff;\\n  border: 4px solid #fff;\\n  position: relative;\\n  zoom: 1;\\n  border-radius: 4px;\\n  -o-box-shadow: \\\"\\\" 0 1px 4px rgba(0, 0, 0, 0.2);\\n  box-shadow: \\\"\\\" 0 1px 4px rgba(0, 0, 0, 0.2); }\\n\\n.flexslider .slides {\\n  zoom: 1; }\\n\\n.flexslider .slides img {\\n  height: auto;\\n  -moz-user-select: none; }\\n\\n.flex-viewport {\\n  max-height: 2000px;\\n  transition: all 1s ease; }\\n\\n.loading .flex-viewport {\\n  max-height: 300px; }\\n\\n@-moz-document url-prefix() {\\n  .loading .flex-viewport {\\n    max-height: none; } }\\n\\n.carousel li {\\n  margin-right: 5px; }\\n\\n.flex-direction-nav {\\n  *height: 0; }\\n\\n.flex-direction-nav a {\\n  text-decoration: none;\\n  display: block;\\n  width: 40px;\\n  height: 40px;\\n  margin: -20px 0 0;\\n  position: absolute;\\n  top: 50%;\\n  z-index: 10;\\n  overflow: hidden;\\n  opacity: 0;\\n  cursor: pointer;\\n  color: rgba(0, 0, 0, 0.8);\\n  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);\\n  transition: all 0.3s ease-in-out; }\\n\\n.flex-direction-nav a:before {\\n  font-size: 40px;\\n  display: inline-block;\\n  content: '\\\\F001';\\n  color: rgba(0, 0, 0, 0.8);\\n  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3); }\\n\\n.flex-direction-nav a.flex-next:before {\\n  content: '\\\\F002'; }\\n\\n.flex-direction-nav .flex-prev {\\n  left: -50px; }\\n\\n.flex-direction-nav .flex-next {\\n  right: -50px;\\n  text-align: right; }\\n\\n.flexslider:hover .flex-direction-nav .flex-prev {\\n  opacity: 0.7;\\n  left: 10px; }\\n\\n.flexslider:hover .flex-direction-nav .flex-prev:hover {\\n  opacity: 1; }\\n\\n.flexslider:hover .flex-direction-nav .flex-next {\\n  opacity: 0.7;\\n  right: 10px; }\\n\\n.flexslider:hover .flex-direction-nav .flex-next:hover {\\n  opacity: 1; }\\n\\n.flex-direction-nav .flex-disabled {\\n  opacity: 0 !important;\\n  filter: alpha(opacity=0);\\n  cursor: default;\\n  z-index: -1; }\\n\\n.flex-pauseplay a {\\n  display: block;\\n  width: 20px;\\n  height: 20px;\\n  position: absolute;\\n  bottom: 5px;\\n  left: 10px;\\n  opacity: 0.8;\\n  z-index: 10;\\n  overflow: hidden;\\n  cursor: pointer;\\n  color: #000; }\\n\\n.flex-pauseplay a:before {\\n  font-size: 20px;\\n  display: inline-block;\\n  content: '\\\\F004'; }\\n\\n.flex-pauseplay a:hover {\\n  opacity: 1; }\\n\\n.flex-pauseplay a.flex-play:before {\\n  content: '\\\\F003'; }\\n\\n.flex-control-nav {\\n  width: 100%;\\n  position: absolute;\\n  bottom: -40px;\\n  text-align: center; }\\n\\n.flex-control-nav li {\\n  margin: 0 6px;\\n  display: inline-block;\\n  zoom: 1;\\n  *display: inline; }\\n\\n.flex-control-paging li a {\\n  width: 11px;\\n  height: 11px;\\n  display: block;\\n  background: #666;\\n  background: rgba(0, 0, 0, 0.5);\\n  cursor: pointer;\\n  text-indent: -9999px;\\n  -o-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);\\n  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);\\n  border-radius: 20px; }\\n\\n.flex-control-paging li a:hover {\\n  background: #333;\\n  background: rgba(0, 0, 0, 0.7); }\\n\\n.flex-control-paging li a.flex-active {\\n  background: #000;\\n  background: rgba(0, 0, 0, 0.9);\\n  cursor: default; }\\n\\n.flex-control-thumbs {\\n  margin: 5px 0 0;\\n  position: static;\\n  overflow: hidden; }\\n\\n.flex-control-thumbs li {\\n  width: 25%;\\n  float: left;\\n  margin: 0; }\\n\\n.flex-control-thumbs img {\\n  width: 100%;\\n  height: auto;\\n  display: block;\\n  opacity: .7;\\n  cursor: pointer;\\n  -moz-user-select: none;\\n  transition: all 1s ease; }\\n\\n.flex-control-thumbs img:hover {\\n  opacity: 1; }\\n\\n.flex-control-thumbs .flex-active {\\n  opacity: 1;\\n  cursor: default; }\\n\\n/* ====================================================================================================================\\n * RESPONSIVE\\n * ====================================================================================================================*/\\n@media screen and (max-width: 860px) {\\n  .flex-direction-nav .flex-prev {\\n    opacity: 1;\\n    left: 10px; }\\n  .flex-direction-nav .flex-next {\\n    opacity: 1;\\n    right: 10px; } }\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./assets/scss/global.scss?./node_modules/css-loader!./node_modules/postcss-loader/src??ref--6-2!./node_modules/sass-loader/lib/loader.js!./node_modules/style-resources-loader/lib??ref--6-4");
+eval("var escape = __webpack_require__(/*! ../../node_modules/css-loader/lib/url/escape.js */ \"./node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Caveat+Brush&subset=latin-ext);\", \"\"]);\n\n// module\nexports.push([module.i, \"* {\\n  padding: 0;\\n  margin: 0;\\n  border: none;\\n  box-sizing: border-box;\\n  list-style: none; }\\n\\nhtml {\\n  font-size: 15px; }\\n\\nbody {\\n  font-family: 'aileronlight';\\n  font-size: 100%;\\n  background-color: #dcdcdc; }\\n\\n/* --------------- Resets */\\nul {\\n  list-style-type: none; }\\n\\na {\\n  text-decoration: none; }\\n\\n.page-head .branding {\\n  top: 0;\\n  position: fixed;\\n  background: #fff;\\n  -webkit-transform: skewX(-20deg);\\n          transform: skewX(-20deg);\\n  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);\\n  display: inline-block;\\n  z-index: 10;\\n  margin-left: -15px; }\\n  .page-head .branding .nav-logo {\\n    -webkit-transform: skewX(20deg);\\n            transform: skewX(20deg);\\n    display: block;\\n    padding: 2vh 1.5vw 2vh 2vw; }\\n    .page-head .branding .nav-logo img {\\n      width: 10vh;\\n      width: auto; }\\n\\n.page-head .menu {\\n  width: 100%;\\n  padding-left: 14vw;\\n  z-index: 5;\\n  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);\\n  top: 0;\\n  position: fixed;\\n  background: #fff; }\\n  .page-head .menu ul {\\n    display: flex; }\\n    .page-head .menu ul li a {\\n      display: block;\\n      padding: 1.5vh 2vw; }\\n\\n.page-main {\\n  padding-top: 4.6vh;\\n  /* ---------- CONTENU 1 ---------- */\\n  /* ---------- FIN CONTENU 1 ---------- */\\n  /* ---------- CONTENU 2 ---------- */\\n  /* ---------- FIN CONTENU 2 ---------- */\\n  /* ---------- CONTENU 3 ---------- */\\n  /* ---------- FIN CONTENU 3 ---------- */ }\\n  .page-main .contenu-1 {\\n    background: url(\" + escape(__webpack_require__(/*! ../../assets/images/contenu_1.png */ \"./assets/images/contenu_1.png\")) + \") no-repeat;\\n    display: flex; }\\n    .page-main .contenu-1 .section-1 {\\n      align-items: center;\\n      padding: 50vh;\\n      background: url(\" + escape(__webpack_require__(/*! ../../assets/images/new_picture_4.png */ \"./assets/images/new_picture_4.png\")) + \") center no-repeat;\\n      background-size: cover; }\\n    .page-main .contenu-1 .section-2 {\\n      width: 100%;\\n      padding-top: 30vh;\\n      -webkit-transform: rotate(-8deg);\\n      -moz-transform: rotate(-8deg); }\\n      .page-main .contenu-1 .section-2 h2 {\\n        font-size: 5em;\\n        font-family: 'cocogoosecompressedsemi_light'; }\\n        .page-main .contenu-1 .section-2 h2 em {\\n          font-style: normal; }\\n        .page-main .contenu-1 .section-2 h2 .thin {\\n          font-family: 'cocogoosecompressedthin'; }\\n        .page-main .contenu-1 .section-2 h2 .color {\\n          color: #74911d; }\\n    .page-main .contenu-1 .section-2bis {\\n      font-family: 'cocogoosecompressedthin';\\n      font-size: 2em;\\n      margin-top: 72.8vh;\\n      margin-right: 18vw; }\\n      .page-main .contenu-1 .section-2bis .savoir_plus {\\n        height: 10vh;\\n        width: 15vw;\\n        position: absolute;\\n        line-height: 10vh; }\\n  .page-main .contenu-2 {\\n    background-color: #b3393a;\\n    display: flex;\\n    background: url(\" + escape(__webpack_require__(/*! ../../assets/images/contenu_2.png */ \"./assets/images/contenu_2.png\")) + \") no-repeat;\\n    width: 100%;\\n    height: 100vh; }\\n    .page-main .contenu-2 .section-3 {\\n      background: url(\" + escape(__webpack_require__(/*! ../../assets/images/new_picture_2.png */ \"./assets/images/new_picture_2.png\")) + \") center no-repeat;\\n      background-size: cover; }\\n    .page-main .contenu-2 .section-4 {\\n      background: url(\" + escape(__webpack_require__(/*! ../../assets/images/new_picture_5.png */ \"./assets/images/new_picture_5.png\")) + \") center no-repeat;\\n      background-size: cover;\\n      padding-left: 20vw; }\\n      .page-main .contenu-2 .section-4 h3 {\\n        font-size: 5em;\\n        font-family: 'cocogoosecompressedsemi_light'; }\\n  .page-main .contenu-3 {\\n    background-color: red;\\n    display: flex; }\\n    .page-main .contenu-3 .section-5 {\\n      background-color: green;\\n      align-items: center;\\n      width: 30%;\\n      padding: 30vh; }\\n    .page-main .contenu-3 .section-6 {\\n      background-color: yellow;\\n      width: 70%;\\n      padding: 30vh; }\\n\\n/*\\n * jQuery FlexSlider v2.7.1\\n * http://www.woothemes.com/flexslider/\\n *\\n * Copyright 2012 WooThemes\\n * Free to use under the GPLv2 and later license.\\n * http://www.gnu.org/licenses/gpl-2.0.html\\n *\\n * Contributing author: Tyler Smith (@mbmufffin)\\n *\\n */\\n/* ====================================================================================================================\\n * FONT-FACE\\n * ====================================================================================================================*/\\n/* ====================================================================================================================\\n * RESETS\\n * ====================================================================================================================*/\\n.flex-container a:hover,\\n.flex-slider a:hover {\\n  outline: none; }\\n\\n.slides,\\n.slides > li,\\n.flex-control-nav,\\n.flex-direction-nav {\\n  margin: 0;\\n  padding: 0;\\n  list-style: none; }\\n\\n.flex-pauseplay span {\\n  text-transform: capitalize; }\\n\\n/* ====================================================================================================================\\n * BASE STYLES\\n * ====================================================================================================================*/\\n.flexslider {\\n  margin: 0;\\n  padding: 0; }\\n\\n.flexslider .slides > li {\\n  display: none;\\n  -webkit-backface-visibility: hidden; }\\n\\n.flexslider .slides img {\\n  width: 100%;\\n  display: block; }\\n\\n.flexslider .slides:after {\\n  content: \\\" \\\";\\n  display: block;\\n  clear: both;\\n  visibility: hidden;\\n  line-height: 0;\\n  height: 0; }\\n\\nhtml[xmlns] .flexslider .slides {\\n  display: block; }\\n\\n* html .flexslider .slides {\\n  height: 1%; }\\n\\n.no-js .flexslider .slides > li:first-child {\\n  display: block; }\\n\\n/* ====================================================================================================================\\n * DEFAULT THEME\\n * ====================================================================================================================*/\\n.flexslider {\\n  margin: 0 0 60px;\\n  background: #fff;\\n  border: 4px solid #fff;\\n  position: relative;\\n  zoom: 1;\\n  border-radius: 4px;\\n  -o-box-shadow: \\\"\\\" 0 1px 4px rgba(0, 0, 0, 0.2);\\n  box-shadow: \\\"\\\" 0 1px 4px rgba(0, 0, 0, 0.2); }\\n\\n.flexslider .slides {\\n  zoom: 1; }\\n\\n.flexslider .slides img {\\n  height: auto;\\n  -moz-user-select: none; }\\n\\n.flex-viewport {\\n  max-height: 2000px;\\n  transition: all 1s ease; }\\n\\n.loading .flex-viewport {\\n  max-height: 300px; }\\n\\n@-moz-document url-prefix() {\\n  .loading .flex-viewport {\\n    max-height: none; } }\\n\\n.carousel li {\\n  margin-right: 5px; }\\n\\n.flex-direction-nav {\\n  *height: 0; }\\n\\n.flex-direction-nav a {\\n  text-decoration: none;\\n  display: block;\\n  width: 40px;\\n  height: 40px;\\n  margin: -20px 0 0;\\n  position: absolute;\\n  top: 50%;\\n  z-index: 10;\\n  overflow: hidden;\\n  opacity: 0;\\n  cursor: pointer;\\n  color: rgba(0, 0, 0, 0.8);\\n  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);\\n  transition: all 0.3s ease-in-out; }\\n\\n.flex-direction-nav a:before {\\n  font-size: 40px;\\n  display: inline-block;\\n  content: '\\\\F001';\\n  color: rgba(0, 0, 0, 0.8);\\n  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3); }\\n\\n.flex-direction-nav a.flex-next:before {\\n  content: '\\\\F002'; }\\n\\n.flex-direction-nav .flex-prev {\\n  left: -50px; }\\n\\n.flex-direction-nav .flex-next {\\n  right: -50px;\\n  text-align: right; }\\n\\n.flexslider:hover .flex-direction-nav .flex-prev {\\n  opacity: 0.7;\\n  left: 10px; }\\n\\n.flexslider:hover .flex-direction-nav .flex-prev:hover {\\n  opacity: 1; }\\n\\n.flexslider:hover .flex-direction-nav .flex-next {\\n  opacity: 0.7;\\n  right: 10px; }\\n\\n.flexslider:hover .flex-direction-nav .flex-next:hover {\\n  opacity: 1; }\\n\\n.flex-direction-nav .flex-disabled {\\n  opacity: 0 !important;\\n  filter: alpha(opacity=0);\\n  cursor: default;\\n  z-index: -1; }\\n\\n.flex-pauseplay a {\\n  display: block;\\n  width: 20px;\\n  height: 20px;\\n  position: absolute;\\n  bottom: 5px;\\n  left: 10px;\\n  opacity: 0.8;\\n  z-index: 10;\\n  overflow: hidden;\\n  cursor: pointer;\\n  color: #000; }\\n\\n.flex-pauseplay a:before {\\n  font-size: 20px;\\n  display: inline-block;\\n  content: '\\\\F004'; }\\n\\n.flex-pauseplay a:hover {\\n  opacity: 1; }\\n\\n.flex-pauseplay a.flex-play:before {\\n  content: '\\\\F003'; }\\n\\n.flex-control-nav {\\n  width: 100%;\\n  position: absolute;\\n  bottom: -40px;\\n  text-align: center; }\\n\\n.flex-control-nav li {\\n  margin: 0 6px;\\n  display: inline-block;\\n  zoom: 1;\\n  *display: inline; }\\n\\n.flex-control-paging li a {\\n  width: 11px;\\n  height: 11px;\\n  display: block;\\n  background: #666;\\n  background: rgba(0, 0, 0, 0.5);\\n  cursor: pointer;\\n  text-indent: -9999px;\\n  -o-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);\\n  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);\\n  border-radius: 20px; }\\n\\n.flex-control-paging li a:hover {\\n  background: #333;\\n  background: rgba(0, 0, 0, 0.7); }\\n\\n.flex-control-paging li a.flex-active {\\n  background: #000;\\n  background: rgba(0, 0, 0, 0.9);\\n  cursor: default; }\\n\\n.flex-control-thumbs {\\n  margin: 5px 0 0;\\n  position: static;\\n  overflow: hidden; }\\n\\n.flex-control-thumbs li {\\n  width: 25%;\\n  float: left;\\n  margin: 0; }\\n\\n.flex-control-thumbs img {\\n  width: 100%;\\n  height: auto;\\n  display: block;\\n  opacity: .7;\\n  cursor: pointer;\\n  -moz-user-select: none;\\n  transition: all 1s ease; }\\n\\n.flex-control-thumbs img:hover {\\n  opacity: 1; }\\n\\n.flex-control-thumbs .flex-active {\\n  opacity: 1;\\n  cursor: default; }\\n\\n/* ====================================================================================================================\\n * RESPONSIVE\\n * ====================================================================================================================*/\\n@media screen and (max-width: 860px) {\\n  .flex-direction-nav .flex-prev {\\n    opacity: 1;\\n    left: 10px; }\\n  .flex-direction-nav .flex-next {\\n    opacity: 1;\\n    right: 10px; } }\\n\\n/*! Generated by Font Squirrel (https://www.fontsquirrel.com) on March 7, 2019 */\\n@font-face {\\n  font-family: 'cocogoosecompressedthin';\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-thin-webfont.eot */ \"./assets/fonts/cocogoosecompressed-thin-webfont.eot\")) + \");\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-thin-webfont.eot */ \"./assets/fonts/cocogoosecompressed-thin-webfont.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-thin-webfont.woff2 */ \"./assets/fonts/cocogoosecompressed-thin-webfont.woff2\")) + \") format(\\\"woff2\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-thin-webfont.woff */ \"./assets/fonts/cocogoosecompressed-thin-webfont.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-thin-webfont.ttf */ \"./assets/fonts/cocogoosecompressed-thin-webfont.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'cocogoosecompressedsemi_light';\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-semilight-webfont.eot */ \"./assets/fonts/cocogoosecompressed-semilight-webfont.eot\")) + \");\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-semilight-webfont.eot */ \"./assets/fonts/cocogoosecompressed-semilight-webfont.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-semilight-webfont.woff2 */ \"./assets/fonts/cocogoosecompressed-semilight-webfont.woff2\")) + \") format(\\\"woff2\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-semilight-webfont.woff */ \"./assets/fonts/cocogoosecompressed-semilight-webfont.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/cocogoosecompressed-semilight-webfont.ttf */ \"./assets/fonts/cocogoosecompressed-semilight-webfont.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./assets/scss/global.scss?./node_modules/css-loader!./node_modules/postcss-loader/src??ref--6-2!./node_modules/sass-loader/lib/loader.js!./node_modules/style-resources-loader/lib??ref--6-4");
 
 /***/ }),
 
@@ -127,6 +270,17 @@ eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-
 /***/ (function(module, exports) {
 
 eval("/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n\n\n//# sourceURL=webpack:///./node_modules/css-loader/lib/css-base.js?");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/lib/url/escape.js":
+/*!***************************************************!*\
+  !*** ./node_modules/css-loader/lib/url/escape.js ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function escape(url) {\n    if (typeof url !== 'string') {\n        return url\n    }\n    // If url is already wrapped in quotes, remove them\n    if (/^['\"].*['\"]$/.test(url)) {\n        url = url.slice(1, -1);\n    }\n    // Should url be wrapped?\n    // See https://drafts.csswg.org/css-values-3/#urls\n    if (/[\"'() \\t\\n]/.test(url)) {\n        return '\"' + url.replace(/\"/g, '\\\\\"').replace(/\\n/g, '\\\\n') + '\"'\n    }\n\n    return url\n}\n\n\n//# sourceURL=webpack:///./node_modules/css-loader/lib/url/escape.js?");
 
 /***/ }),
 
