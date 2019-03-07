@@ -38,12 +38,16 @@
 
             <div class="contenu-2">
               <div class="section-3">
-                <h2 class="color">2 GOUTS 100% NATURELS :</h2>
+                <h2>2 GOUTS 100% NATURELS :</h2>
+                <h3>PAMPLEMOUSSE ROSE</h3>
+                <h3>ET FRAMBOISE</h3>
               </div>
 
               <div class="section-4">
-                <h3>PAMPLEMOUSSE ROSE</h3>
-                <h3>ET FRAMBOISE</h3>
+
+              </div>
+              <div class="section-4bis">
+
               </div>
             </div>
 
@@ -51,11 +55,12 @@
 
             <div class="contenu-3">
               <div class="section-5">
-                MON IMAGE
+
               </div>
 
               <div class="section-6">
-                <h2>UNE BOISSON <br/> ENERGISANTE</h2>
+                <h2>UNE BOISSON<br/></h2>
+                <h2> ENERGISANTE</h2>
               </div>
             </div>
 
