@@ -14,8 +14,14 @@
     <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
     <!-- DEBUT MAIN -->
 
-    <main role="main" class="inner cover">
-        <h1>Contact</h1>
+    <main role="main">
+
+        <section class="intro">
+          <div class="inner">
+            <h1>Contact</h1>
+          </div>
+        </section>
+
     </main>
 
     <!-- FIN MAIN -->

@@ -1,5 +1,9 @@
 .page-foot {
-  .branding-foot {
+  overflow: hidden;
+  .inner {
+    display: flex;
+  }
+  .branding {
     bottom: 0;
     flex-direction: row;
     transform: skewX(-20deg);
@@ -7,39 +11,37 @@
     display: inline-block;
     z-index: 10;
     margin-left: -15px;
+    margin-right: -15px;
     background-color: #fff;
     display: flex;
-
-    .nav-logo-foot {
+    .nav-logo {
       transform: skewX(20deg);
       display: block;
       padding: 2vh 1.5vw 2vh 2vw;
-
       img {
+        height: 3vh;
         width: auto;
       }
     }
   }
-
-  .menu-foot {
+  .menu {
     width: 100%;
     padding-left: 2vw;
     z-index: 5;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, .1);
     top: 0;
     background: #000;
-
     ul {
       display: flex;
-
+      align-items: center;
+      height: 100%;
       li {
         a {
           display: block;
-          padding: 1.8vh 4vw;
+          padding: 2vh 4vw;
           color: #fff;
-          height: 8vh;
-          line-height: 8vh;
           font-style: normal;
+          text-transform: uppercase;
         }
       }
     }

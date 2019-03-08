@@ -1,13 +1,14 @@
 <footer class="page-foot">
+
   <div class="inner">
 
-    <div class="branding-foot">
-      <a class="nav-logo-foot" href="index.php" title="">
+    <div class="branding">
+      <a class="nav-logo" href="index.php" title="">
         <img class="img-logo" src="assets/images/logo.png" alt="Logo Power Freak" height="50" />
       </a>
+    </div>
 
-
-      <nav class="menu-foot">
+    <nav class="menu">
         <ul>
           <li>
             <a class="recyclage" href="https://www.facebook.com" title=""><img class="fb" src="assets/images/fb.svg" alt="Logo FACEBOOK" height="25" /></a>
@@ -22,8 +23,8 @@
             <a class="power-freak" href="http://www.rougeframboise.com/sante/boisson-naturelle-energisante-10-fois-plus-puissante-que-le-red-bull" title="">SHOP</a>
           </li>
         </ul>
-      </nav>
-    </div>
+    </nav>
 
   </div>
+
 </footer>

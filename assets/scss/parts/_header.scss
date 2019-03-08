@@ -8,41 +8,46 @@
     display: inline-block;
     z-index: 10;
     margin-left: -15px;
-
     .nav-logo {
       transform: skewX(20deg);
       display: block;
       padding: 2vh 1.5vw 2vh 2vw;
-
       img {
-        width: 10vh;
+        height: 5vh;
         width: auto;
       }
     }
   }
-
   .menu {
-    width: 100%;
     padding-left: 14vw;
     z-index: 5;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, .1);
     top: 0;
     position: fixed;
     background: #fff;
-
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
     ul {
       display: flex;
-
       li {
         a {
           display: block;
           padding: 1.5vh 2vw;
-        }
-
-        .fb {
-          padding-left: 14vw;
+          text-transform: uppercase;
+          color: black;
+          img {
+            margin-right: 10px;
+            vertical-align: middle;
+          }
+          span {
+            vertical-align: middle;
+            display: inline-block;
+            margin-top: 2px;
+          }
         }
       }
     }
+
   }
 }

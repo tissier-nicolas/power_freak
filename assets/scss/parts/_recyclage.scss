@@ -1,100 +1,110 @@
-.recyclage-1 {
-  display: flex;
-
-  .part-1 {
-    padding: 20vh;
-    background-color: green;
-  }
-
-  .part-2 {
-    padding: 20vh;
-    background-color: yellow;
-  }
-}
-
-.recyclage-2 {
-  display: flex;
-
-  .part-3 {
-    padding: 20vh;
-    background-color: yellow;
-  }
-
-  .part-4 {
-    padding: 20vh;
-    background-color: green;
-  }
-}
-
-.recyclage-3 {
-  display: flex;
-
-  .part-5 {
-    padding: 20vh;
-    background-color: green;
-  }
-
-  .part-6 {
-    padding: 20vh;
-    background-color: yellow;
-  }
-}
-
-.recyclage-4 {
-  display: flex;
-
-  .part-7 {
-    padding: 20vh;
-    background-color: yellow;
-  }
-
-  .part-8 {
-    padding: 20vh;
-    background-color: green;
-  }
-}
-
-.recyclage-5 {
-  display: flex;
-
-  .part-9 {
-    padding: 20vh;
-    background-color: green;
-  }
-
-  .part-10 {
-    padding: 20vh;
-    background-color: yellow;
+.intro {
+  padding: 8vh 20vw 5vh;
+  width: 100%;
+  .inner {
+    * {
+      text-align: center;
+    }
+    h1 {
+      font-size: 3rem;
+      opacity: .2;
+      text-align: center;
+    }
   }
 }
 
 .conclusion {
-  .end-part {
-    padding: 20vh;
-    width: 100%;
+  .inner {
+    padding: 10vh 10vw;
+    @media (min-width: 641px) {
+      padding: 20vh 20vw;
+    }
+    * {
+      text-align: center;
+    }
+    .title-2 {
+      font-size: 4rem;
+      line-height: 8vh;
+      em {
+
+        color : #b3393a;
+        font-style: normal;
+      }
+    }
+  }
+}
+
+.page-recyclage {
+  .section:not(.intro) {
+    @media (min-width: 641px) {
+      display: flex;
+      margin-bottom: -5vh;
+      align-items: center;
+      width: 100%;
+    }
+    .part {
+      padding: 12vh 5vw;
+      &:nth-child(1) {
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+      }
+      &:nth-child(2) {
+        text-align: center;
+      }
+      img {
+        margin-bottom: 2vh;
+      }
+    }
+    &:nth-child(odd)  {
+      .part {
+        &:nth-child(1)  {
+          flex: 3;
+        }
+        &:nth-child(2) {
+          flex: 2;
+        }
+      }
+    }
+    &:nth-child(even) {
+      .part {
+        &:nth-child(2)  {
+          flex: 1.5;
+        }
+        &:nth-child(1) {
+          flex: 4;
+        }
+      }
+    }
   }
 }
 
 details {
-  background-color: red;
-  border: 1px solid #aaa;
+  margin-top: 2.5vh;
+  cursor: pointer;
+  background-color: #dcdcdc;
   border-radius: 4px;
   padding: 0.5em 0.5em 0;
-  transform: skewX(-20deg);
-
+  margin-bottom: 2vh;
   summary {
     font-weight: bold;
     margin: -.5em -.5em 0;
     padding: 0.5em;
-    transform: skewX(20deg);
+  }
+  p {
+    padding: 2vh 2vw;
   }
 }
 
 details[open] {
   padding: 0.5em;
+  font-family: 'Lato light';
+  line-height: 1.4em;
+  margin-bottom: 2vh;
+  font-size: 1rem;
 
   details[open] summary {
     border-bottom: 1px solid #aaa;
     margin-bottom: 0.5em;
+
   }
 }

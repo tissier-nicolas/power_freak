@@ -19,19 +19,21 @@
         <main class="page-main">
 
             <div class="contenu-1">
-              <div class="section-1">
-
+              <div class="section-1" style="background-image: url('assets/images/new_picture_4.png')">
+                  <img src="assets/images/new_picture_4.png" alt="" width="300" />
               </div>
 
               <div class="section-2">
-                <h2><em class="thin">UN AN APRES SA SORTIE,</em><br/>POWER FREAK<br/>
-                  <em class="color">SE FAIT UN NOUVEL <br/>ECO-LOOK !</em></h2>
+                <h2><em class="thin">UN AN APRES SA SORTIE,</em><br/>
+                  POWER FREAK<br/>
+                  <em class="color">SE FAIT UN NOUVEL <br/
+                    >ECO-LOOK !</em>
+                </h2>
+                <div class="button savoir_plus">
+                  <a href="recyclage.php" title="">En savoir plus</a>
+                </div>
               </div>
-              <div class="section-2bis">
-                <nav>
-                  <a class="savoir_plus" href="recyclage.php" title="">En savoir plus</a>
-                </nav>
-              </div>
+
             </div>
 
             <!-- Fin contenu-1 -->
