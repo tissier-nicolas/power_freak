@@ -20,6 +20,36 @@
           <div class="inner">
             <h1>Contact</h1>
           </div>
+          <h2>Vous avez des questions pour Power Freak ? </h2>
+
+          <p>
+            Il suffit de poser votre question et de nous laisser votre email.
+          </p>
+
+          <form action="/ma-page-de-traitement" method="post">
+              <div>
+                  <label for="name">Nom :</label>
+                  <input type="text" id="name" name="user_name">
+              </div>
+              <div>
+                  <label for="mail">e-mail :</label>
+                  <input type="email" id="mail" name="user_mail">
+              </div>
+              <div>
+                  <label for="msg">Question :</label>
+                  <textarea id="msg" name="user_message"></textarea>
+              </div>
+          </form>
+
+          <div class="button">
+        <button type="submit">Envoyer le message</button>
+    </div>
+
+
+<p>
+  Note à ajouter : pour réduire votre empreinte carbone, pensez à vider votre boite email de temps à autre ;)  // L’équipe Power Freak.
+</p>
+
         </section>
 
     </main>
