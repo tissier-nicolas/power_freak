@@ -1,104 +1,106 @@
 .page-main {
   padding-top: 4.6vh;
-/* ---------- CONTENU 1 ---------- */
-    .contenu-1 {
-      background: url('../../assets/images/contenu_1.png')  no-repeat;
-      display: flex;
+  /* ---------- CONTENU 1 ---------- */
+  .contenu-1 {
+    background: url("../../assets/images/contenu_1.png") no-repeat;
+    display: flex;
 
-        .section-1 {
-          align-items: center;
-          padding: 50vh;
-          background: url('../../assets/images/new_picture_4.png') center no-repeat;
-          background-size: cover;
+    .section-1 {
+      align-items: center;
+      padding: 50vh;
+      background: url("../../assets/images/new_picture_4.png") center no-repeat;
+      background-size: cover;
+    }
 
+    .section-2 {
+      width: 100%;
+      padding-top: 30vh;
+      -webkit-transform: rotate(-8deg);
+      -moz-transform: rotate(-8deg);
+
+      h2 {
+        em {
+          font-style: normal;
         }
-        .section-2 {
-          width: 100%;
-          padding-top: 30vh;
-          -webkit-transform: rotate(-8deg);
-          -moz-transform: rotate(-8deg);
+        font-size: 5em;
+        font-family: 'cocogoosecompressedsemi_light';
 
-          h2 {
-            em {
-              font-style: normal;
-            }
-            font-size: 5em;
-            font-family: 'cocogoosecompressedsemi_light';
-            .thin {
-              font-family: 'cocogoosecompressedthin';
-            }
-            .color {
-              color : #74911d;
-            }
-          }
+        .thin {
+          font-family: 'cocogoosecompressedthin';
         }
-          .section-2bis {
-            font-family: 'cocogoosecompressedthin';
-            font-size: 2em;
-            margin-top: 72.8vh;
-            margin-right: 18vw;
-              .savoir_plus {
-                height: 10vh;
-                width: 15vw;
-                position: absolute;
-                line-height: 10vh;
 
+        .color {
+          color: #74911d;
+        }
+      }
+    }
+
+    .section-2bis {
+      font-family: 'cocogoosecompressedthin';
+      font-size: 2em;
+      margin-top: 72.8vh;
+      margin-right: 18vw;
+
+      .savoir_plus {
+        height: 10vh;
+        width: 15vw;
+        position: absolute;
+        line-height: 10vh;
       }
     }
   }
-/* ---------- FIN CONTENU 1 ---------- */
+  /* ---------- FIN CONTENU 1 ---------- */
+  /* ---------- CONTENU 2 ---------- */
+  .contenu-2 {
+    background-color: #b3393a;
+    display: flex;
+    background: url("../../assets/images/contenu_2.png") no-repeat;
+    height: 100vh;
+    width: 100%;
 
-/* ---------- CONTENU 2 ---------- */
-    .contenu-2 {
-      background-color: #b3393a;
-      display: flex;
-      background: url('../../assets/images/contenu_2.png')  no-repeat;
-      height: 100vh;
-      width : 100%;
-
-        .section-3 {
-        h2, h3 {
-            padding-top: 4vh;
-            padding-left: 4vw;
-            font-size: 5em;
-            font-family: 'cocogoosecompressedsemi_light';
-          }
-        }
-        .section-4 {
-          background: url('../../assets/images/new_picture_5.png') center no-repeat;
-          background-size: contain;
-          position: absolute;
-          padding: 30vw;
+    .section-3 {
+      h2,
+      h3 {
+        padding-top: 4vh;
+        padding-left: 4vw;
+        font-size: 4em;
+        font-family: 'cocogoosecompressedsemi_light';
       }
-        .section-4bis {
-          background: url('../../assets/images/new_picture_2.png') center no-repeat;
-          background-size: contain;
-          padding: 30vw;
+    }
+
+    .section-4 {
+      background: url("../../assets/images/new_picture_5.png") center no-repeat;
+      background-size: contain;
+      position: absolute;
+      padding: 30vw;
+    }
+
+    .section-4bis {
+      background: url("../../assets/images/new_picture_2.png") center no-repeat;
+      background-size: contain;
+      padding: 30vw;
     }
   }
-/* ---------- FIN CONTENU 2 ---------- */
+  /* ---------- FIN CONTENU 2 ---------- */
+  /* ---------- CONTENU 3 ---------- */
+  .contenu-3 {
+    background-color: #e8e8e8;
+    display: flex;
 
-/* ---------- CONTENU 3 ---------- */
-    .contenu-3 {
-      background-color: #e8e8e8;
-      display: flex;
+    .section-5 {
+      background: url("../../assets/images/new_picture_6.png") center no-repeat;
+      background-size: cover;
+      width: 50%;
+      padding: 30vh;
+    }
 
-      .section-5 {
-        background: url('../../assets/images/new_picture_6.png') center no-repeat;
-        background-size: cover;
-        width: 50%;
-        padding: 30vh;
-  }
-
-        .section-6 {
-          font-family: 'cocogoosecompressedsemi_light';
-          width: 50%;
-          padding: 30vh;
-          padding-top: 10vh;
-          padding-left: 4vw;
-          font-size: 5em;
-        }
-
+    .section-6 {
+      font-family: 'cocogoosecompressedsemi_light';
+      width: 50%;
+      padding-top: 18vh;
+      padding-left: 4vw;
+      font-size: 4em;
+    }
   }
   /* ---------- FIN CONTENU 3 ---------- */
 }

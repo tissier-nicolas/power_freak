@@ -1,29 +1,29 @@
 <!doctype html>
 <html lang="en">
 
-  <head>
-      <?php include 'partials/meta.php';  ?>
-      <title>PW | Power Freak</title>
-  </head>
+<head>
+  <?php include 'partials/meta.php';  ?>
+  <title>PW | Power Freak</title>
+</head>
 
-  <body>
+<body>
 
-    <?php include 'partials/header.php';  ?>
-    <!-- FIN HEADER -->
+  <?php include 'partials/header.php';  ?>
+  <!-- FIN HEADER -->
 
-    <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-    <!-- DEBUT MAIN -->
+  <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+  <!-- DEBUT MAIN -->
 
-    <main role="main" class="inner cover">
-        <h1>POWER FREAK</h1>
-    </main>
+  <main role="main" class="inner cover">
+    <h1>POWER FREAK</h1>
+  </main>
 
-    <!-- FIN MAIN -->
-    <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+  <!-- FIN MAIN -->
+  <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
-    <?php include 'partials/footer.php';  ?>
-    <!-- FIN FOOTER -->
+  <?php include 'partials/footer.php';  ?>
+  <!-- FIN FOOTER -->
 
-  </body>
+</body>
 
 </html>

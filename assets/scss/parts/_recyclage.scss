@@ -1,0 +1,100 @@
+.recyclage-1 {
+  display: flex;
+
+  .part-1 {
+    padding: 20vh;
+    background-color: green;
+  }
+
+  .part-2 {
+    padding: 20vh;
+    background-color: yellow;
+  }
+}
+
+.recyclage-2 {
+  display: flex;
+
+  .part-3 {
+    padding: 20vh;
+    background-color: yellow;
+  }
+
+  .part-4 {
+    padding: 20vh;
+    background-color: green;
+  }
+}
+
+.recyclage-3 {
+  display: flex;
+
+  .part-5 {
+    padding: 20vh;
+    background-color: green;
+  }
+
+  .part-6 {
+    padding: 20vh;
+    background-color: yellow;
+  }
+}
+
+.recyclage-4 {
+  display: flex;
+
+  .part-7 {
+    padding: 20vh;
+    background-color: yellow;
+  }
+
+  .part-8 {
+    padding: 20vh;
+    background-color: green;
+  }
+}
+
+.recyclage-5 {
+  display: flex;
+
+  .part-9 {
+    padding: 20vh;
+    background-color: green;
+  }
+
+  .part-10 {
+    padding: 20vh;
+    background-color: yellow;
+  }
+}
+
+.conclusion {
+  .end-part {
+    padding: 20vh;
+    width: 100%;
+  }
+}
+
+details {
+  background-color: red;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+  transform: skewX(-20deg);
+
+  summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: 0.5em;
+    transform: skewX(20deg);
+  }
+}
+
+details[open] {
+  padding: 0.5em;
+
+  details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+  }
+}

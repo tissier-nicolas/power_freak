@@ -1,34 +1,33 @@
-.page-head {
-  .branding {
-    top: 0;
-    position: fixed;
-    background: #fff;
+.page-foot {
+  .branding-foot {
+    bottom: 0;
+    flex-direction: row;
     transform: skewX(-20deg);
     box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
     display: inline-block;
     z-index: 10;
     margin-left: -15px;
+    background-color: #fff;
+    display: flex;
 
-    .nav-logo {
+    .nav-logo-foot {
       transform: skewX(20deg);
       display: block;
       padding: 2vh 1.5vw 2vh 2vw;
 
       img {
-        width: 10vh;
         width: auto;
       }
     }
   }
 
-  .menu {
+  .menu-foot {
     width: 100%;
-    padding-left: 14vw;
+    padding-left: 2vw;
     z-index: 5;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, .1);
     top: 0;
-    position: fixed;
-    background: #fff;
+    background: #000;
 
     ul {
       display: flex;
@@ -36,11 +35,11 @@
       li {
         a {
           display: block;
-          padding: 1.5vh 2vw;
-        }
-
-        .fb {
-          padding-left: 14vw;
+          padding: 1.8vh 4vw;
+          color: #fff;
+          height: 8vh;
+          line-height: 8vh;
+          font-style: normal;
         }
       }
     }
