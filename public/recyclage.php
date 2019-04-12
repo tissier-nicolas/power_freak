@@ -21,7 +21,7 @@
         <h1 class="title-1">Recyclage</h1>
       <div class="part">
         <h2  class="title-2">« L’énergie ne se perd jamais, elle se transmet. »</h2>
-        <h3 class="title-3">Julius Robert von Mayer (1814 - 1878)</h3>
+        <h3 class="title-3">Julius Roxbert von Mayer (1814 - 1878)</h3>
       </div>
 
       <div class="part">
