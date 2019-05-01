@@ -43,12 +43,14 @@
                 <h2>2 GOUTS 100% NATURELS :</h2>
                 <h3>PAMPLEMOUSSE ROSE</h3>
                 <h3>ET FRAMBOISE</h3>
-              </div>
-
-              <div class="section-4">
-
-              </div>
+                <div class="section-4" style="background-image: url('assets/images/new_picture_3.png')">
+                    <img src="assets/images/new_picture_3.png" alt="" width="1000" />
+            </div>
+            </div>
               <div class="section-4bis">
+                <div class="section--4bis" style="background-image: url('assets/images/new_picture_5.png')">
+                    <img src="assets/images/new_picture_5.png" alt="" width="1000" />
+                </div>
 
               </div>
             </div>

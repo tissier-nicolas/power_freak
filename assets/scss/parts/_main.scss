@@ -60,7 +60,7 @@
   .contenu-2 {
     background-color: #b3393a;
     display: flex;
-    background: url("../../assets/images/new_picture_5.png") center no-repeat;
+
     height: 100vh;
     width: 100%;
 
@@ -75,16 +75,20 @@
     }
 
     .section-4 {
-      background: url("../../assets/images/new_picture_5.png") center no-repeat;
-      background-size: contain;
-      position: absolute;
-      padding: 30vw;
+
+      background: center no-repeat;
+      background-size: cover;
+      img {
+        opacity: 0;
+      }
+      @media (max-width: 640px) {
+          background-size: 300%;
+      }
+
     }
 
     .section-4bis {
-      background: url("../../assets/images/new_picture_2.png") center no-repeat;
-      background-size: contain;
-      padding: 30vw;
+      align-items: center;
     }
   }
   /* ---------- FIN CONTENU 2 ---------- */
