@@ -29,10 +29,12 @@
                   <em class="color">SE FAIT UN NOUVEL <br/
                     >ECO-LOOK !</em>
                 </h2>
-                <div class="button savoir_plus">
-                  <a href="recyclage.php" title="">En savoir plus</a>
-                </div>
+                <button class="btn-shine">
+                  <span>En savoir plus</span>
+                </button>
               </div>
+
+
 
             </div>
 
@@ -40,18 +42,14 @@
 
             <div class="contenu-2">
               <div class="section-3">
-                <h2>2 GOUTS 100% NATURELS :</h2>
-                <h3>PAMPLEMOUSSE ROSE</h3>
-                <h3>ET FRAMBOISE</h3>
-                <div class="section-4" style="background-image: url('assets/images/new_picture_3.png')">
-                    <img src="assets/images/new_picture_3.png" alt="" width="1000" />
-            </div>
-            </div>
-              <div class="section-4bis">
-                <div class="section--4bis" style="background-image: url('assets/images/new_picture_5.png')">
-                    <img src="assets/images/new_picture_5.png" alt="" width="1000" />
-                </div>
+                <h2>2 GOUTS <br/>
+                </br/><em>100%</em> NATURELS :</h2>
+                    <img src="assets/images/new_picture_2.png" alt="" width="1000" />
+              </div>
 
+              <div class="section-4">
+               <img src="assets/images/new_picture_5.png" alt="" width="1000" />
+                 <h3>PAMPLEMOUSSE ROSE <br />ET FRAMBOISE</h3>
               </div>
             </div>
 
@@ -59,7 +57,7 @@
 
             <div class="contenu-3">
               <div class="section-5">
-
+ <img src="assets/images/new_picture_6.png" alt="" width="1000" />
               </div>
 
               <div class="section-6">

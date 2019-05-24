@@ -3,7 +3,8 @@
   overflow: hidden;
   /* ---------- CONTENU 1 ---------- */
   .contenu-1 {
-    @media (min-width: 641px) {
+    position:static;
+      @media (min-width: 641px) {
       display: flex;
       align-items: center;
       height: 100vh;
@@ -11,38 +12,53 @@
       background-size: cover;
       background: url("../../assets/images/contenu_1.png") top left no-repeat;
     }
+
     > * {
       flex:: 1;
       height: 100%;
     }
+
     .section-1 {
       display: flex;
       flex-direction: column;
       justify-content: center;
       background: center no-repeat;
       background-size: cover;
+      animation-name: slidein;
+      animation-duration: 1.5s;
+      animation-delay: 0.5s;
+      animation-fill-mode: backwards;
+
       img {
         width: 100%;
         opacity: 0;
       }
       @media (max-width: 640px) {
-          background-size: 300%;
+        padding-top: 14vh;
+        background-size: 100%;
+        animation-name: none;
       }
     }
+
     .section-2 {
       -webkit-transform: rotate(-8deg);
       -moz-transform: rotate(-8deg);
       display: flex;
       flex-direction: column;
       justify-content: center;
+
       @media (max-width: 640px) {
-        padding: 5vh 10vw 10vh;
+        -webkit-transform: none;
+        -moz-transform: none;
+        align-items: center;
+        text-align: center;
       }
+
       h2 {
         em {
           font-style: normal;
         }
-        font-size: 5em;
+        font-size: 5rem;
         font-family: "cocogoosecompressedsemi_light";
 
         .thin {
@@ -52,45 +68,172 @@
         .color {
           color: #74911d;
         }
+        @media screen and (max-width: 640px) {
+          margin-bottom: 2vh;
+        }
       }
+      /* --------------- DEBUT BOUTTON --------------- */
+      button {
+        position: relative;
+        margin-top: 6vh;
+        padding: 5px 12px;
+        height: 8vh;
+        width: 300px;
+        outline: none;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        text-transform: uppercase;
+        background-color: #ffffff;
+        border: 1px solid rgba(22, 76, 167, 0.6);
+        border-radius: 10px;
+        color: #EA585F;
+        font-family: inherit;
+        z-index: 0;
+        overflow: hidden;
+        transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+
+
+
+        span {
+          color: #000;
+          font-size: 1.4rem;
+          font-weight: 500;
+          letter-spacing: 0.7px;
+        }
+
+        &:hover {
+          animation: rotate 0.7s ease-in-out both;
+
+          span {
+            animation: storm 0.7s ease-in-out both;
+            animation-delay: 0.06s;
+          }
+        }
+      }
+      @keyframes rotate {
+        0% {
+          transform: rotate(0deg) translate3d(0, 0, 0);
+        }
+
+        25% {
+          transform: rotate(3deg) translate3d(0, 0, 0);
+        }
+
+        50% {
+          transform: rotate(-3deg) translate3d(0, 0, 0);
+        }
+
+        75% {
+          transform: rotate(1deg) translate3d(0, 0, 0);
+        }
+
+        100% {
+          transform: rotate(0deg) translate3d(0, 0, 0);
+        }
+      }
+      @keyframes storm {
+        0% {
+          transform: translate3d(0, 0, 0) translateZ(0);
+        }
+
+        25% {
+          transform: translate3d(4px, 0, 0) translateZ(0);
+        }
+
+        50% {
+          transform: translate3d(-3px, 0, 0) translateZ(0);
+        }
+
+        75% {
+          transform: translate3d(2px, 0, 0) translateZ(0);
+        }
+
+        100% {
+          transform: translate3d(0, 0, 0) translateZ(0);
+        }
+      }
+
+
+      .btn-shine {
+        border: 4px solid;
+        overflow: hidden;
+        position: relative;
+
+        span {
+          z-index: 20;
+        }
+
+        &:after {
+          background: #74911D;
+          content: "";
+          height: 155px;
+          left: -75px;
+          opacity: 0.4;
+          position: absolute;
+          top: -50px;
+          transform: rotate(35deg);
+          transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
+          width: 50px;
+          z-index: -10;
+        }
+
+        &:hover {
+          &:after {
+            left: 120%;
+            transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
+          }
+        }
+        @media screen and (max-width: 640px) {
+          margin: 0;
+        }
+      }
+/* --------------- FIN BOUTTON --------------- */
     }
   }
   /* ---------- FIN CONTENU 1 ---------- */
+
   /* ---------- CONTENU 2 ---------- */
   .contenu-2 {
-    background-color: #b3393a;
+    background: url("../../assets/images/contenu_2.png") top left no-repeat;
     display: flex;
-
     height: 100vh;
     width: 100%;
 
     .section-3 {
-      h2,
-      h3 {
-        padding-top: 4vh;
-        padding-left: 4vw;
-        font-size: 4em;
+      h2 {
+        padding-top: 16vh;
+        padding-left: 10vw;
+        font-size: 8em;
+        line-height: 6.2vh;
         font-family: 'cocogoosecompressedsemi_light';
+        color: #000;
+        -webkit-transform: rotate(-8deg);
+        -moz-transform: rotate(-8deg);
+        em {
+          color: #fff;
+        }
       }
-    }
-
-    .section-4 {
-
-      background: center no-repeat;
-      background-size: cover;
       img {
-        opacity: 0;
-      }
-      @media (max-width: 640px) {
-          background-size: 300%;
-      }
 
+      }
     }
-
-    .section-4bis {
-      align-items: center;
-    }
+    .section-4 {
+      h3 {
+        padding-top: 2vh;
+        padding-left: 10vw;
+        font-size: 4em;
+        line-height: 8vh;
+        font-family: 'cocogoosecompressedsemi_light';
+        color: #fff;
+      }
+      img {
+position: relative;
+      }
   }
+}
   /* ---------- FIN CONTENU 2 ---------- */
   /* ---------- CONTENU 3 ---------- */
   .contenu-3 {
@@ -98,19 +241,29 @@
     display: flex;
 
     .section-5 {
-      background: url("../../assets/images/new_picture_6.png") center no-repeat;
-      background-size: cover;
       width: 50%;
-      padding: 30vh;
     }
 
     .section-6 {
       font-family: 'cocogoosecompressedsemi_light';
+      font-size: 6rem;
       width: 50%;
-      padding-top: 18vh;
-      padding-left: 4vw;
-      font-size: 4em;
+      padding-top: 20vh;
+      text-align: center;
     }
   }
   /* ---------- FIN CONTENU 3 ---------- */
+}
+
+  /* ---------- key frames---------- */
+@keyframes slidein {
+  from {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0px);
+    opacity: 1;
+  }
 }
