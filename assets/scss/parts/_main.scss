@@ -3,8 +3,8 @@
   overflow: hidden;
   /* ---------- CONTENU 1 ---------- */
   .contenu-1 {
-    position:static;
-      @media (min-width: 641px) {
+    position: static;
+    @media (min-width: 768px) {
       display: flex;
       align-items: center;
       height: 100vh;
@@ -33,7 +33,7 @@
         width: 100%;
         opacity: 0;
       }
-      @media (max-width: 640px) {
+      @media screen and (max-width: 767px) {
         padding-top: 14vh;
         background-size: 100%;
         animation-name: none;
@@ -46,12 +46,12 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
-
-      @media (max-width: 640px) {
+      @media screen and (max-width: 767px) {
         -webkit-transform: none;
         -moz-transform: none;
         align-items: center;
         text-align: center;
+
       }
 
       h2 {
@@ -68,8 +68,9 @@
         .color {
           color: #74911d;
         }
-        @media screen and (max-width: 640px) {
+        @media screen and (max-width: 767px) {
           margin-bottom: 2vh;
+          font-size: 3rem;
         }
       }
       /* --------------- DEBUT BOUTTON --------------- */
@@ -94,8 +95,6 @@
         z-index: 0;
         overflow: hidden;
         transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
-
-
 
         span {
           color: #000;
@@ -156,7 +155,6 @@
         }
       }
 
-
       .btn-shine {
         border: 4px solid;
         overflow: hidden;
@@ -186,15 +184,14 @@
             transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
           }
         }
-        @media screen and (max-width: 640px) {
+        @media screen and (max-width: 767px) {
           margin: 0;
         }
       }
-/* --------------- FIN BOUTTON --------------- */
+      /* --------------- FIN BOUTTON --------------- */
     }
   }
   /* ---------- FIN CONTENU 1 ---------- */
-
   /* ---------- CONTENU 2 ---------- */
   .contenu-2 {
     background: url("../../assets/images/contenu_2.png") top left no-repeat;
@@ -212,14 +209,15 @@
         color: #000;
         -webkit-transform: rotate(-8deg);
         -moz-transform: rotate(-8deg);
+
         em {
           color: #fff;
         }
       }
-      img {
 
-      }
+      img {}
     }
+
     .section-4 {
       h3 {
         padding-top: 2vh;
@@ -229,11 +227,12 @@
         font-family: 'cocogoosecompressedsemi_light';
         color: #fff;
       }
+
       img {
-position: relative;
+        position: relative;
       }
+    }
   }
-}
   /* ---------- FIN CONTENU 2 ---------- */
   /* ---------- CONTENU 3 ---------- */
   .contenu-3 {
@@ -254,8 +253,7 @@ position: relative;
   }
   /* ---------- FIN CONTENU 3 ---------- */
 }
-
-  /* ---------- key frames---------- */
+/* ---------- key frames---------- */
 @keyframes slidein {
   from {
     transform: translateY(-200px);
