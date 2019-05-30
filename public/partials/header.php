@@ -7,26 +7,31 @@
         <img class="img-logo" src="assets/images/logo.png" alt="Logo Power Freak" height="50" />
       </a>
     </div>
+    <a href="#body" class="nav-button-open" aria-label="open navigation"></a>
+  <a href="#" class="nav-button-close" aria-label="close navigation"></a>
+  <aside class="sidebar">
 
     <nav class="menu">
+
+
 
       <ul class="links">
         <li>
           <a class="recyclage" href="recyclage.php" title="">
             <img class="recyclage" src="assets/images/recyclage.svg" alt="icon recyclage" height="25" />
-            <span>Le recyclage, une priorité</span>
+            <span class="title">Le recyclage, une priorité</span>
           </a>
         </li>
         <li>
           <a class="power-freak" href="power_freak.php" title="">
             <img class="powerfreak" src="assets/images/powerfreak.svg" alt="icon powerfreak" height="25" />
-            <span>Power Freak</span>
+            <span class="title">Power Freak</span>
           </a>
         </li>
         <li>
           <a class="power-freak" href="contact.php" title="">
             <img class="contact" src="assets/images/contact.svg" alt="icon contact" height="25" />
-            <span>Contactez Nous</span>
+            <span class="title">Contactez Nous</span>
           </a>
         </li>
       </ul>
@@ -55,6 +60,8 @@
       </ul>
 
     </nav>
+
+    </aside>
 
   </div>
 
