@@ -16,9 +16,9 @@
 
   <main role="main">
 
-      <section class="intro">
+      <section class="intro_pw">
         <div class="inner">
-          <h1>POWER FREAK</h1>
+          <h2>POWER FREAK</h2>
         </div>
 
         <p>Power Freak, c’est le nom de notre nouvelle boisson énergisante 100% naturelle développée en collaboration avec la HES-SO Valais.

@@ -67,11 +67,11 @@
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/ex_img.svg" alt="Logo shop" height="100" />
-        <p>
+        <img class="img recyclage" src="assets/images/recyclage.png" alt="Logo shop" height="100" />
+        <h3>
           « Le recyclage d'une canette nécessite 95%
           d'énergie en moins que la production d'une nouvelle canette. »
-        </p>
+        </h3>
       </div>
     </section>
 
@@ -102,11 +102,11 @@
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/ex_img.svg" alt="Logo shop" height="100" />
-        <p>
+        <img class="img recyclage" src="assets/images/distances.png" alt="Logo shop" height="100" />
+        <h3>
           « La production en "wall to wall" permet d'économiser chaque année l'équivalent en
           émissions de plus de 2,3 millions de kilomètres de voyage en camion. »
-        </p>
+        </h3>
       </div>
     </section>
 
@@ -138,7 +138,7 @@
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/ex_img.svg" alt="Logo shop" height="100" />
+        <img class="img recyclage" src="assets/images/transport.png" alt="Logo shop" height="100" />
         <h3 class="title-3">À eux seuls, sept réfrigérateurs Power Freak consomment à peine autant d'énergie qu'une ampoule de 100 watts.</h3>
       </div>
     </section>
@@ -161,7 +161,7 @@
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/ex_img.svg" alt="Logo shop" height="100" />
+        <img class="img recyclage" src="assets/images/refroidissement.png" alt="Logo shop" height="100" />
         <h3 class="title-3">Power Freak a déjà installé 980 000 frigos ECO à la place de réfrigérateurs traditionnels.</h3>
       </div>
     </section>

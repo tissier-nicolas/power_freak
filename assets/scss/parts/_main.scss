@@ -276,9 +276,22 @@
   .contenu-3 {
     background-color: #e8e8e8;
     display: flex;
+    @media screen and (max-width: 767px) {
+      display: flex;
+      flex-direction: column;
+        height: auto;
+
+    }
 
     .section-5 {
       width: 50%;
+      @media screen and (max-width: 767px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: auto;
+      }
     }
 
     .section-6 {
@@ -287,6 +300,14 @@
       width: 50%;
       padding-top: 20vh;
       text-align: center;
+      @media screen and (max-width: 767px) {
+        display: flex;
+        flex-direction: column;
+        font-size: 4rem;
+        width: auto;
+        padding: 4vh;
+        background-color: #74911D;
+      }
     }
   }
   /* ---------- FIN CONTENU 3 ---------- */
