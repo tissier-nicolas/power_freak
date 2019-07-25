@@ -1,13 +1,14 @@
 .intro {
 
-  width: 100%;
+    height: 64vh;
 
   .inner {
     * {
       padding: 2vh 4vw;
       text-align: center;
     }
-    h1 {
+    h2 {
+      padding: 2vh;
       font-size: 3rem;
       opacity: .2;
       text-align: center;
@@ -51,6 +52,8 @@
     }
     .part {
       padding: 12vh 5vw;
+      font-size: 1.4rem;
+      line-height: 3vh;
       &:nth-child(1) {
         background-color: white;
         box-shadow: 0 0 10px rgba(0, 0, 0, .2);
@@ -92,6 +95,9 @@ details {
   border-radius: 4px;
   padding: 0.5em 0.5em 0;
   margin-bottom: 2vh;
+  font-family: 'Lato light';
+  line-height: 1.4em;
+  font-size: 1.2rem;
   summary {
     font-weight: bold;
     margin: -.5em -.5em 0;
@@ -103,15 +109,18 @@ details {
 }
 
 details[open] {
-  padding: 0.5em;
+  padding: 0.5em 0.5em 0;
   font-family: 'Lato light';
   line-height: 1.4em;
   margin-bottom: 2vh;
-  font-size: 1rem;
+  font-size: 1.2rem;
 
   details[open] summary {
     border-bottom: 1px solid #aaa;
     margin-bottom: 0.5em;
-
+    padding: 4em;
+  }
+  p {
+    padding: 2vh 2vw;
   }
 }

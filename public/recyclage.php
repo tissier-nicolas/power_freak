@@ -18,10 +18,10 @@
 
     <section class="section intro section-1">
       <div class="inner">
-        <h1 class="title-1">Recyclage</h1>
+        <h2 class="title-1">RECYCLAGE </h2>
       <div class="part">
-        <h2  class="title-2">« L’énergie ne se perd jamais, elle se transmet. »</h2>
-        <h3 class="title-3">Julius Roxbert von Mayer (1814 - 1878)</h3>
+        <h3  class="title-2">« L’énergie ne se perd jamais, elle se transmet. »</h3>
+        <h4 class="title-3">Julius Roxbert von Mayer (1814 - 1878)</h4>
       </div>
 
       <div class="part">
@@ -33,7 +33,7 @@
           Découvrez les efforts déployés par Power Freak pour réduire au maximum son empreinte carbone tout au long du cycle de vie d’une canette.
         </p>
       </div>
-    </div>
+
 
     </section>
 
@@ -67,7 +67,7 @@
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/recyclage.png" alt="Logo shop" height="100" />
+        <img class="img recyclage" src="assets/images/recyclage.png" alt="Logo shop" height="180" />
         <h3>
           « Le recyclage d'une canette nécessite 95%
           d'énergie en moins que la production d'une nouvelle canette. »
@@ -88,21 +88,25 @@
           année d'économiser plus de 1 643 tonnes d'émissions de CO2 par an.</h2>
           <details>
             <summary>QUE CELA REPRÉSENTE-T-IL EN TERMES DE CHIFFRES ?</summary>
-            La production en « wall to wall » permet d'économiser plus de 1 643 tonnes d'émissions de CO2 par an.
+            <p>
+              La production en « wall to wall » permet d'économiser plus de 1 643 tonnes d'émissions de CO2 par an.
+            </p>
           </details>
           <details>
             <summary>UNE PLATEFORME DE PRODUCTION DESSERVANT LA PLANÈTE ></summary>
+            <p>
             La production de Power Freak basée en Suisse offre de nombreux avantages :
             Notre processus de fabrication de pointe ainsi que la qualité des ingrédients que nous employons, comme l'eau des Alpes d'origine locale,
             nous permet de garantir aux consommateurs une qualité optimale des produits. Il est possible de mettre en œuvre rapidement de nouvelles technologies permettant d’accroître l’efficacité et, par la même occasion, de préserver les ressources
             naturelles.
             L'énergie utilisée pour la production est produite dans la région, elle provient à 80 % environ d'énergies renouvelables. Nous cherchons à améliorer ce chiffre par tous les moyens possibles.
+            </p>
           </details>
 
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/distances.png" alt="Logo shop" height="100" />
+        <img class="img recyclage" src="assets/images/distances.png" alt="Logo shop" height="180" />
         <h3>
           « La production en "wall to wall" permet d'économiser chaque année l'équivalent en
           émissions de plus de 2,3 millions de kilomètres de voyage en camion. »
@@ -126,19 +130,25 @@
         </p>
         <details>
           <summary>TRANSPORT DANS PLUS DE 10 PAYS À TRAVERS LE MONDE ></summary>
+          <p>
           Dès que les canettes de Power Freak sont remplies, elles partent de Suisse, à destination de plus d'une dizaine de pays dans le monde. Les canettes peuvent parcourir de longs trajets, dans la mesure du possible par voies maritime et
           ferroviaire. En dernier recours, le transport se fait en camion quand il n'existe aucun autre moyen de livraison. Pour Power Freak, la priorité reste d'augmenter la part des expéditions par voies ferroviaire et maritime.
+          </p>
           </details>
           <details>
             <summary>LE CONDITIONNEMENT EN CANETTES EST IDÉAL POUR LE TRANSPORT ></summary>
+            <p>
+
             Une canette est facile à transporter du fait de sa forme et de sa légèreté. On peut donc affirmer qu'il s'agit d'un conditionnement idéal pour le transport, surtout en comparaison des autres formes de conditionnement : il économise environ
             40 % de place sur la cargaison d’un camion par rapport à des bouteilles en verre et 30% par rapport aux bouteilles PET.
+
+          </p>
             </details>
 
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/transport.png" alt="Logo shop" height="100" />
+        <img class="img recyclage" src="assets/images/transport.png" alt="Logo shop" height="180" />
         <h3 class="title-3">À eux seuls, sept réfrigérateurs Power Freak consomment à peine autant d'énergie qu'une ampoule de 100 watts.</h3>
       </div>
     </section>
@@ -153,15 +163,18 @@
         </p>
         <details>
           <summary>En savoir plus</summary>
+          <p>
+
+
           Grâce à leurs réfrigérants naturels, les réfrigérateurs écologiques sont bien plus respectueux de l'environnement que les réfrigérateurs traditionnels, et consomment jusqu'à 45% d'énergie en moins. L'utilisation de réfrigérateurs
           écologiques est un moyen efficace d'éviter les émissions de gaz à effet de serre, c'est pourquoi Power Freak s’engage à distribuer des réfrigérateurs écologiques dès que les infrastructures locales le permettent.
           En 2017, 980 000 frigos Power Freak ECO ont été utilisés à travers le monde, soit plus de 80% de l'arsenal de refroidissement de Power Freak.
-
+    </p>
         </details>
       </div>
 
       <div class="part">
-        <img class="img recyclage" src="assets/images/refroidissement.png" alt="Logo shop" height="100" />
+        <img class="img recyclage" src="assets/images/refroidissement.png" alt="Logo shop" height="180" />
         <h3 class="title-3">Power Freak a déjà installé 980 000 frigos ECO à la place de réfrigérateurs traditionnels.</h3>
       </div>
     </section>

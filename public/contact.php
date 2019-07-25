@@ -16,9 +16,9 @@
 
     <main role="main">
 
-        <section class="intro">
+        <section class="intro-contact">
           <div class="inner">
-            <h1>Contact</h1>
+            <h2>CONTACT</h2>
           </div>
           <h2>Vous avez des questions pour Power Freak ? </h2>
 

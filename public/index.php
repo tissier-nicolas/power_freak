@@ -29,9 +29,9 @@
                   <em class="color">SE FAIT UN NOUVEL <br/
                     >ECO-LOOK !</em>
                 </h2>
-                <button class="btn-shine">
-                  <span>En savoir plus</span>
-                </button>
+
+                <button class="btn-shine"><a href="recyclage.php"><span>En savoir plus</span></a></button>
+
               </div>
 
 

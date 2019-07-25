@@ -15,7 +15,8 @@ module.exports = {
   },
   output: {
     path: path.resolve('./public/build/'),
-    publicPath: '/nicolas_project_power_freak_website/public/build/',//Edit here
+    // publicPath: '/nicolas_project_power_freak_website/public/build/',//Edit here
+    publicPath: '/build/',//Edit here
     filename: '[name].js',
   },
   plugins: [new MiniCssExtractPlugin()],
